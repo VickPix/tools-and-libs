@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello Strapdown</title>
+	<script type="text/javascript">
+		var client = new XMLHttpRequest();
+		client.open('GET', './README.md');
+		client.onreadystatechange = function() {
+			var el=document.getElementById('container');
+		  el.innerHTML = client.responseText;
+		}
+		client.send();
+	</script>
+</head>
+
+
+
+<xmp id="container" theme="united" style="display:none;">
+</xmp>
+
+<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+</html>
