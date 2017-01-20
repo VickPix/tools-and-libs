@@ -18,8 +18,10 @@
 * [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
 * [Premonish](https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
 * [MenuSpy](https://github.com/lcdsantos/menuspy): A JavaScript library to make navigation menus highlight the item based on currently in view section
+
 #### Utilities
 * [Date-fns](https://date-fns.org/): Modern JavaScript date utility library
+
 #### Mobile
 * [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/): A quick and powerful plugin for your pull-to-refresh needs in your webapp
 
@@ -28,4 +30,4 @@
 * nothing
 
 #### MultiLanguage
-[hashids](http://hashids.org/)
+* [hashids](http://hashids.org/)
