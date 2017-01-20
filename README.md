@@ -11,6 +11,7 @@
 #### Elements
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
 
+<hr>
 ## Javascript
 * [Strapdown.js](http://strapdownjs.com/): Instant and elegant Markdown documents in the browser
 * [RactiveJs](http://ractivejs.org): Next-generation DOM manipulation 
@@ -25,7 +26,7 @@
 #### Mobile
 * [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/): A quick and powerful plugin for your pull-to-refresh needs in your webapp
 
-
+<hr>
 ## Php
 * nothing
 
