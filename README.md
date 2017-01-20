@@ -11,6 +11,9 @@
 #### Elements
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
 
+#### Themes
+* [Bootswatch/](http://bootswatch.com/): Free themes for Bootstrap
+
 <hr>
 ## Javascript
 * [Strapdown.js](http://strapdownjs.com/): Instant and elegant Markdown documents in the browser
