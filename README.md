@@ -2,17 +2,14 @@
 <hr>
 ## Css
 
-#### Framework
-* nothing
-
-#### Grid
-* nothing
+#### Frameworks and Grids
+* [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework. 
 
 #### Elements
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
 
 #### Themes
-* [Bootswatch/](http://bootswatch.com/): Free themes for Bootstrap
+* [Bootswatch](http://bootswatch.com/): Free themes for Bootstrap
 
 <hr>
 ## Javascript
@@ -37,7 +34,7 @@
 
 <hr>
 ## Php
-* nothing
+* [Yellow](https://datenstrom.se/yellow): Yellow is for people who make websites
 
 #### MultiLanguage
-* [hashids](http://hashids.org/)
+* [Hashids](http://hashids.org/)
