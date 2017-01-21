@@ -13,11 +13,15 @@
 
 <hr>
 ## Javascript
-* [Strapdown.js](http://strapdownjs.com/): Instant and elegant Markdown documents in the browser
 * [RactiveJs](http://ractivejs.org): Next-generation DOM manipulation 
 * [LoadJs](https://github.com/muicss/loadjs): A tiny async loader / dependency manager for modern browsers
 * [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
 * [Premonish](https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
+
+#### Templates and Themes
+* [FullPage](http://alvarotrigo.com/fullPage/): Create full screen pages fast and simple
+* [Reveal.js](http://lab.hakim.se/reveal-js/): The HTML Presentation Framework
+* [Strapdown.js](http://strapdownjs.com/): Instant and elegant Markdown documents in the browser
 
 #### Frameworks
 * [Zepto.js](http://zeptojs.com/): Minimalist JavaScript library for modern browsers
@@ -28,6 +32,7 @@
 #### Graphics and Charts
 * [Kute.js](http://thednp.github.io/kute.js): Native Javascript animation engine
 * [GoogleCharts](https://developers.google.com/chart/): Interactive charts for browsers and mobile devices
+* [Smoothie](http://smoothiecharts.org): smooooooth JavaScript charts for realtime streaming data
 
 #### Utilities
 * [Date-fns](https://date-fns.org/): Modern JavaScript date utility library
