@@ -19,6 +19,9 @@
 * [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
 * [Premonish](https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
 
+#### Frameworks
+* [Zepto.js](http://zeptojs.com/): Minimalist JavaScript library for modern browsers
+
 #### Menu and Navigation
 * [MenuSpy](https://github.com/lcdsantos/menuspy): A JavaScript library to make navigation menus highlight the item based on currently in view section
 
