@@ -6,9 +6,17 @@
 * [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework. 
 * [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Bijou](http://andhart.github.io/bijou/): A small (Less than 2kb) CSS framework 
+* [Milligram](https://milligram.github.io/): A minimalist CSS framework
+* [Core.css](http://corecss.io/): An ultra-minimal framework
+* [Wing](http://usewing.ml): Minimal, Responsive CSS Framework 
 
 #### Components
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
+* [CSSPIN](https://webkul.github.io/csspin/): CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code
+* [SpinThatShit](https://matejkustec.github.io/SpinThatShit/): A set of SCSS mixins for single element loaders and spinners
+* [CssLoader](http://www.raphaelfabeni.com.br/css-loader/): Simple loaders for your web applications using only one div and pure CSS
+* [Wenk](https://tiaanduplessis.github.io/wenk/): Lightweight pure CSS tooltip for the greater good 
+* [CssIcon](http://cssicon.space): icon set made with pure css code, no dependencies, "grab and go" icons 
 
 #### Themes
 * [Bootswatch](http://bootswatch.com/): Free themes for Bootstrap
@@ -20,20 +28,30 @@
 * [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
 * [Premonish](https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
 
+#### Node.js
+* [Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management for JavaScript
+
 #### Animations and Transitions
 * [TypeIt](http://macarthur.me/typeit): The most versatile jQuery animated typing plugin on the planet
 * [Transit](http://ricostacruz.com/jquery.transit/): Super-smooth CSS transitions & transformations for jQuery
+* [Odometer](https://github.com/HubSpot/odometer): Smoothly transitions numbers with ease.
+* [Granim.js](https://sarcadass.github.io/granim.js/ ): Create fluid and interactive gradients animations with this small (< 10 kB) js library
+* [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js): Responsive and slick progress bars
 
 #### Templates and Themes
 * [FullPage](http://alvarotrigo.com/fullPage/): Create full screen pages fast and simple
 * [Reveal.js](http://lab.hakim.se/reveal-js/): The HTML Presentation Framework
 * [Strapdown.js](http://strapdownjs.com/): Instant and elegant Markdown documents in the browser
+* [Bricklayer.js](http://bricklayer.js.org): Lightweight and independent Pinterest-like cascading grid layout library 
+* [Responsify.js](http://responsifyjs.space): A jquery plugin that makes images truly responsive, without sacrificing anyone's face. Give it more stars! 
 
 #### Frameworks
 * [Zepto.js](http://zeptojs.com/): Minimalist JavaScript library for modern browsers
+* [Superdom.js](https://superdom.site/): Better and simpler ES6 DOM manipulation
 
 #### Menu and Navigation
 * [MenuSpy](https://github.com/lcdsantos/menuspy): A JavaScript library to make navigation menus highlight the item based on currently in view section
+* [Sausage](http://christophercliff.com/sausage/): A jQuery UI widget for contextual pagination
 
 #### Graphics and Charts
 * [Kute.js](http://thednp.github.io/kute.js): Native Javascript animation engine
@@ -45,6 +63,9 @@
 * [Date-fns](https://date-fns.org/): Modern JavaScript date utility library
 * [Popline](http://kenshin54.github.io/popline): Popline is an HTML5 Rich-Text-Editor Toolbar 
 * [List.js](http://listjs.com): The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML
+* [Typeis.js](https://typeis.github.io/): Typeis. it's the smart and simple javaScript type checker 
+* [Shave](https://dollarshaveclub.github.io/shave/): A zero dependency javascript plugin that truncates text to fit within a html element based on a set max-height
+* [Select2](https://select2.github.io/): Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results
 
 #### Mobile
 * [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/): A quick and powerful plugin for your pull-to-refresh needs in your webapp
@@ -52,6 +73,9 @@
 #### Others
 * [Parallel.js](https://parallel.js.org): Easy multi-core processing with javascript
 * [Hamsters.js](http://www.hamsters.io): 100% Vanilla Javascript Multithreading & Parallel Execution Library
+* [Turbo.js](https://turbo.github.io): Perform massive parallel computations in your browser with GPGPU
+* [Fuse.js](http://fusejs.io/): Lightweight fuzzy-search, in JavaScript 
+
 <hr>
 
 ## Php
