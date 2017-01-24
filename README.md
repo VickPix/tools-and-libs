@@ -19,7 +19,10 @@
 * [LoadJs](https://github.com/muicss/loadjs): A tiny async loader / dependency manager for modern browsers
 * [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
 * [Premonish](https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
+
+#### Animations and Transitions
 * [TypeIt](http://macarthur.me/typeit): The most versatile jQuery animated typing plugin on the planet
+* [Transit](http://ricostacruz.com/jquery.transit/): Super-smooth CSS transitions & transformations for jQuery
 
 #### Templates and Themes
 * [FullPage](http://alvarotrigo.com/fullPage/): Create full screen pages fast and simple
