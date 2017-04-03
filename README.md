@@ -1,5 +1,7 @@
 # List of tools and libraries
+
 <hr>
+
 ## Css
 
 #### Frameworks and Grids
@@ -23,6 +25,7 @@
 * [Bootswatch](http://bootswatch.com/): Free themes for Bootstrap
 
 <hr>
+
 ## Javascript
 * [RactiveJs](http://ractivejs.org): Next-generation DOM manipulation 
 * [LoadJs](https://github.com/muicss/loadjs): A tiny async loader / dependency manager for modern browsers
