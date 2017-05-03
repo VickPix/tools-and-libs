@@ -6,12 +6,13 @@
 
 #### Frameworks and Grids
 * [Minireset.css](http://jgthms.com/minireset.css/): A tiny modern CSS reset 
-* [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework. 
+* [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework
 * [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Bijou](http://andhart.github.io/bijou/): A small (Less than 2kb) CSS framework 
 * [Milligram](https://milligram.github.io/): A minimalist CSS framework
 * [Core.css](http://corecss.io/): An ultra-minimal framework
 * [Wing](http://usewing.ml): Minimal, Responsive CSS Framework 
+* [Waffle](https://lucasgruwez.github.io/waffle-grid/): An easy to use flexbox grid system
 
 #### Components
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
@@ -62,6 +63,7 @@
 #### Frameworks
 * [Zepto.js](http://zeptojs.com/): Minimalist JavaScript library for modern browsers
 * [Superdom.js](https://superdom.site/): Better and simpler ES6 DOM manipulation
+* [Vue.js](https://vuejs.org/): A progressive, incrementally-adoptable JavaScript framework for building UI on the web
 
 #### Menu and Navigation
 * [MenuSpy](https://github.com/lcdsantos/menuspy): A JavaScript library to make navigation menus highlight the item based on currently in view section
@@ -108,5 +110,12 @@
 * [Validation](http://respect.github.io/Validation): The most awesome validation engine ever created for PHP 
 * [Carbon](http://carbon.nesbot.com/): A simple PHP API extension for DateTime
 
-#### MultiLanguage
+<hr>
+
+##Python
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI): Python Telegram bot api
+
+<hr>
+
+## MultiLanguage
 * [Hashids](http://hashids.org/)
