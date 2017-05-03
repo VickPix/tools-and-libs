@@ -64,6 +64,7 @@
 * [Zepto.js](http://zeptojs.com/): Minimalist JavaScript library for modern browsers
 * [Superdom.js](https://superdom.site/): Better and simpler ES6 DOM manipulation
 * [Vue.js](https://vuejs.org/): A progressive, incrementally-adoptable JavaScript framework for building UI on the web
+* [Vuefire](https://github.com/vuejs/vuefire): Firebase bindings for Vue.js
 
 #### Menu and Navigation
 * [MenuSpy](https://github.com/lcdsantos/menuspy): A JavaScript library to make navigation menus highlight the item based on currently in view section
