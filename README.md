@@ -13,6 +13,7 @@
 * [Core.css](http://corecss.io/): An ultra-minimal framework
 * [Wing](http://usewing.ml): Minimal, Responsive CSS Framework 
 * [Waffle](https://lucasgruwez.github.io/waffle-grid/): An easy to use flexbox grid system
+* [Ungrid](http://chrisnager.github.io/ungrid): the simplest responsive css grid
 
 #### Components
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
@@ -32,7 +33,7 @@
 * [LoadJs](https://github.com/muicss/loadjs): A tiny async loader / dependency manager for modern browsers
 * [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
 * [Premonish](https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
-*[Intercooler.js](http://intercoolerjs.org): Making AJAX as easy as anchor tags 
+* [Intercooler.js](http://intercoolerjs.org): Making AJAX as easy as anchor tags 
 
 #### Node.js
 * [Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management for JavaScript
@@ -86,6 +87,7 @@
 * [Typeis.js](https://typeis.github.io/): Typeis. it's the smart and simple javaScript type checker 
 * [Shave](https://dollarshaveclub.github.io/shave/): A zero dependency javascript plugin that truncates text to fit within a html element based on a set max-height
 * [In-view](https://camwiegert.github.io/in-view): Get notified when a DOM element enters or exits the viewport
+* [Highlight.js](https://github.com/isagalaev/highlight.js): Javascript syntax highlighter
 
 #### Mobile
 * [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/): A quick and powerful plugin for your pull-to-refresh needs in your webapp
