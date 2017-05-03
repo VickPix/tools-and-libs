@@ -120,3 +120,8 @@
 
 ## MultiLanguage
 * [Hashids](http://hashids.org/)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/VickPix/tools-and-libs/badge.svg?style=beer-square)](https://beerpay.io/VickPix/tools-and-libs)  [![Beerpay](https://beerpay.io/VickPix/tools-and-libs/make-wish.svg?style=flat-square)](https://beerpay.io/VickPix/tools-and-libs?focus=wish)
