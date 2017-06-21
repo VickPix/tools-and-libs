@@ -22,6 +22,8 @@
 * [CssLoader](http://www.raphaelfabeni.com.br/css-loader/): Simple loaders for your web applications using only one div and pure CSS
 * [Wenk](https://tiaanduplessis.github.io/wenk/): Lightweight pure CSS tooltip for the greater good 
 * [CssIcon](http://cssicon.space): icon set made with pure css code, no dependencies, "grab and go" icons 
+* [Pushy-buttons](https://iraul.github.io/pushy-buttons/): CSS Pressable 3D Buttons
+* [Rpg-Awesome](http://nagoshiashumari.github.io/Rpg-Awesome/): A fantasy themed font and CSS toolkit
 
 #### Themes
 * [Bootswatch](http://bootswatch.com/): Free themes for Bootstrap
@@ -37,8 +39,10 @@
 
 #### Node.js
 * [Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management for JavaScript
+* [Nedb](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser
 
 #### Animations and Transitions
+* [Rellax](https://dixonandmoe.com/rellax/): Lightweight, vanilla javascript parallax library 
 * [TypeIt](http://macarthur.me/typeit): The most versatile jQuery animated typing plugin on the planet
 * [Transit](http://ricostacruz.com/jquery.transit/): Super-smooth CSS transitions & transformations for jQuery
 * [Odometer](https://github.com/HubSpot/odometer): Smoothly transitions numbers with ease.
@@ -46,9 +50,12 @@
 * [ProgressBar.js](https://kimmobrunfeldt.github.io/progressbar.js): Responsive and slick progress bars
 * [Baffle.js](https://camwiegert.github.io/baffle): A tiny javascript library for obfuscating and revealing text in DOM elements
 * [Particles.js](https://marcbruederlin.github.io/particles.js/): A lightweight and dependency-free javascript plugin for particle backgrounds
+* [MoveTo](https://github.com/hsnaydd/moveTo): A lightweight scroll animation javascript library without any dependency
+* [Aos](https://github.com/michalsnik/aos): Animate on scroll library
 
 #### Components
 * [Overhang.js](http://paulkr.github.io/overhang.js): A JQuery plugin for notifications, prompts and confirmations
+* [Notyf](http://carlosroso.com/notyf/): A dead simple, responsive, vanilla JavaScript plugin to show notifications
 * [Select2](https://select2.github.io/): Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results
 * [Choices.js](https://joshuajohnson.co.uk/Choices/): A vanilla JS customisable select box/text input plugin
 * [Flatpickr](https://chmln.github.io/flatpickr): Lightweight and powerful datetimepicker with no dependencies 
@@ -66,6 +73,7 @@
 * [Superdom.js](https://superdom.site/): Better and simpler ES6 DOM manipulation
 * [Vue.js](https://vuejs.org/): A progressive, incrementally-adoptable JavaScript framework for building UI on the web
 * [Vuefire](https://github.com/vuejs/vuefire): Firebase bindings for Vue.js
+* [Eagle.js](https://zulko.github.io/eaglejs-demo/): A hackable slideshow framework built with Vue.js
 
 #### Menu and Navigation
 * [MenuSpy](https://github.com/lcdsantos/menuspy): A JavaScript library to make navigation menus highlight the item based on currently in view section
@@ -88,6 +96,8 @@
 * [Shave](https://dollarshaveclub.github.io/shave/): A zero dependency javascript plugin that truncates text to fit within a html element based on a set max-height
 * [In-view](https://camwiegert.github.io/in-view): Get notified when a DOM element enters or exits the viewport
 * [Highlight.js](https://github.com/isagalaev/highlight.js): Javascript syntax highlighter
+* [Holmes](https://haroen.me/holmes/): Fast and easy searching inside a page
+* [Talisman](http://yomguithereal.github.io/talisman/): A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript
 
 #### Mobile
 * [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/): A quick and powerful plugin for your pull-to-refresh needs in your webapp
@@ -97,6 +107,8 @@
 * [Hamsters.js](http://www.hamsters.io): 100% Vanilla Javascript Multithreading & Parallel Execution Library
 * [Turbo.js](https://turbo.github.io): Perform massive parallel computations in your browser with GPGPU
 * [Fuse.js](http://fusejs.io/): Lightweight fuzzy-search, in JavaScript 
+* [Clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript): Clean Code concepts adapted for JavaScript
+* [140bytes](https://github.com/jed/140bytes): Once a tweet-sized, fork-to-play, community-curated collection of JavaScript
 
 <hr>
 
