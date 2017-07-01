@@ -8,9 +8,7 @@
 * [Minireset.css](http://jgthms.com/minireset.css/): A tiny modern CSS reset 
 * [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework
 * [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-* [Bijou](http://andhart.github.io/bijou/): A small (Less than 2kb) CSS framework 
 * [Milligram](https://milligram.github.io/): A minimalist CSS framework
-* [Core.css](http://corecss.io/): An ultra-minimal framework
 * [Wing](http://usewing.ml): Minimal, Responsive CSS Framework 
 * [Waffle](https://lucasgruwez.github.io/waffle-grid/): An easy to use flexbox grid system
 * [Ungrid](http://chrisnager.github.io/ungrid): the simplest responsive css grid
@@ -21,7 +19,6 @@
 * [SpinThatShit](https://matejkustec.github.io/SpinThatShit/): A set of SCSS mixins for single element loaders and spinners
 * [CssLoader](http://www.raphaelfabeni.com.br/css-loader/): Simple loaders for your web applications using only one div and pure CSS
 * [Wenk](https://tiaanduplessis.github.io/wenk/): Lightweight pure CSS tooltip for the greater good 
-* [CssIcon](http://cssicon.space): icon set made with pure css code, no dependencies, "grab and go" icons 
 * [Pushy-buttons](https://iraul.github.io/pushy-buttons/): CSS Pressable 3D Buttons
 * [Rpg-Awesome](http://nagoshiashumari.github.io/Rpg-Awesome/): A fantasy themed font and CSS toolkit
 
@@ -31,15 +28,14 @@
 <hr>
 
 ## Javascript
-* [RactiveJs](http://ractivejs.org): Next-generation DOM manipulation 
 * [LoadJs](https://github.com/muicss/loadjs): A tiny async loader / dependency manager for modern browsers
-* [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
 * [Premonish](https://github.com/mathisonian/premonish): Predict which DOM element a user will interact with next
 * [Intercooler.js](http://intercoolerjs.org): Making AJAX as easy as anchor tags 
 
 #### Node.js
 * [Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management for JavaScript
 * [Nedb](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser
+* [Feathers](https://feathersjs.com): A REST and realtime API layer for modern applications
 
 #### Animations and Transitions
 * [Rellax](https://dixonandmoe.com/rellax/): Lightweight, vanilla javascript parallax library 
@@ -67,6 +63,7 @@
 * [Strapdown.js](http://strapdownjs.com/): Instant and elegant Markdown documents in the browser
 * [Bricklayer.js](http://bricklayer.js.org): Lightweight and independent Pinterest-like cascading grid layout library 
 * [Responsify.js](http://responsifyjs.space): A jquery plugin that makes images truly responsive, without sacrificing anyone's face. Give it more stars! 
+* [Snarkdown](https://github.com/developit/snarkdown): A snarky 1kb Markdown parser written in JavaScript
 
 #### Frameworks
 * [Zepto.js](http://zeptojs.com/): Minimalist JavaScript library for modern browsers
@@ -74,6 +71,9 @@
 * [Vue.js](https://vuejs.org/): A progressive, incrementally-adoptable JavaScript framework for building UI on the web
 * [Vuefire](https://github.com/vuejs/vuefire): Firebase bindings for Vue.js
 * [Eagle.js](https://zulko.github.io/eaglejs-demo/): A hackable slideshow framework built with Vue.js
+* [Moon.js](http://moonjs.ga/): A minimal, blazing fast UI library
+* [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
+* [Hyperapp](https://hyperapp.glitch.me): 1 KB JavaScript library for building frontend applications
 
 #### Menu and Navigation
 * [MenuSpy](https://github.com/lcdsantos/menuspy): A JavaScript library to make navigation menus highlight the item based on currently in view section
@@ -85,10 +85,13 @@
 * [GoogleCharts](https://developers.google.com/chart/): Interactive charts for browsers and mobile devices
 * [Smoothie](http://smoothiecharts.org): smooooooth JavaScript charts for realtime streaming data
 * [Grade](http://benhowdle.im/grade): This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images
+* [BigPicture.js](https://henrygd.me/bigpicture): Lightweight JavaScript image / video viewer. Supports Youtube and Vimeo
 
 #### Utilities
 * [Underscore.js](http://underscorejs.org): JavaScript's utility _ belt 
 * [Date-fns](https://date-fns.org/): Modern JavaScript date utility library
+* [Tinytime](https://github.com/aweary/tinytime): A straightforward date and time formatter in <1kb
+* [StrMan](https://dleitee.github.io/strman/): A Javascript string manipulation library
 * [Popline](http://kenshin54.github.io/popline): Popline is an HTML5 Rich-Text-Editor Toolbar 
 * [List.js](http://listjs.com): The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML
 * [Jets.js](https://jets.js.org): Native CSS search engine 
