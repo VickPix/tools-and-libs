@@ -12,7 +12,7 @@
 ## Css
 
 #### Frameworks and Grids
-* <del><span style="color:red">*[DELETED]*</span> [Minireset.css](http://jgthms.com/minireset.css/): A tiny modern CSS reset</del>
+* <span style="color:red">*[DELETED]*</span> <del>[Minireset.css](http://jgthms.com/minireset.css/): A tiny modern CSS reset</del>
 * <span style="color:#00cc66">*[USED]*</span> [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework
 * [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Milligram](https://milligram.github.io/): A minimalist CSS framework
@@ -33,7 +33,7 @@
 * [Rpg-Awesome](http://nagoshiashumari.github.io/Rpg-Awesome/): A fantasy themed font and CSS toolkit
 
 #### Themes
-* <del><span style="color:red">*[DELETED]*</span>[Bootswatch](http://bootswatch.com/): Free themes for Bootstrap</del>
+* <span style="color:red">*[DELETED]*</span> <del>[Bootswatch](http://bootswatch.com/): Free themes for Bootstrap</del>
 
 <hr>
 
@@ -43,7 +43,7 @@
 * [Intercooler.js](http://intercoolerjs.org): Making AJAX as easy as anchor tags 
 
 #### Node.js
-* <del><span style="color:red">*[DELETED]*</span>[Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management for JavaScript</del>
+* <span style="color:red">*[DELETED]*</span> <del>[Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management for JavaScript</del>
 * [Nedb](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser
 * [Feathers](https://feathersjs.com): A REST and realtime API layer for modern applications
 
@@ -113,7 +113,7 @@
 * <span style="color:#00cc66">*[USED]*</span> [Talisman](http://yomguithereal.github.io/talisman/): A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript
 
 #### Mobile
-* <del><span style="color:red">*[DELETED]*</span>[PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/): A quick and powerful plugin for your pull-to-refresh needs in your webapp</del>
+* <span style="color:red">*[DELETED]*</span> <del>[PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/): A quick and powerful plugin for your pull-to-refresh needs in your webapp</del>
 
 #### Others
 * [Parallel.js](https://parallel.js.org): Easy multi-core processing with javascript
