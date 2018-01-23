@@ -10,7 +10,7 @@
 ## Css
 
 #### Frameworks and Grids
-* ~~[Minireset.css](http://jgthms.com/minireset.css/): A tiny modern CSS reset ~~
+* [~~Minireset.css~~](http://jgthms.com/minireset.css/): ~~A tiny modern CSS reset~~
 * <span style="color:#00cc66">*[USED]*</span> [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework
 * [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Milligram](https://milligram.github.io/): A minimalist CSS framework
