@@ -3,7 +3,7 @@
 	<span style="color:#ffcc00">*[TEST]*</span>
 	<span style="color:#00cc66">*[USED]*</span>
 	<span style="color:red">*[DELETED]*</span>
-	<del><span style="color:red">*[DELETED]*</span></del>
+	<span style="color:red">*[DELETED]*</span> <del></del>
 -->
 # List of tools and libraries
 
