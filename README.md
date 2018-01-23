@@ -1,7 +1,8 @@
 <!---
 	<span style="color:red">**Testing!** text</span>
-	<span style="color:red">**[TEST]**</span>
-	<span style="color:red">**[USED]**</span>
+	<span style="color:#ffdd00">*[TEST]*</span>
+	<span style="color:#00cc66">*[USED]*</span>
+	<span style="color:red">*[DELETED]*</span>
 -->
 # List of tools and libraries
 
@@ -10,16 +11,16 @@
 ## Css
 
 #### Frameworks and Grids
-* [~~Minireset.css~~](http://jgthms.com/minireset.css/): ~~A tiny modern CSS reset~~
+* <span style="color:red">*[DELETED]*</span> [~~Minireset.css~~](http://jgthms.com/minireset.css/): ~~A tiny modern CSS reset~~
 * <span style="color:#00cc66">*[USED]*</span> [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework
 * [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Milligram](https://milligram.github.io/): A minimalist CSS framework
 * [Wing](http://usewing.ml): Minimal, Responsive CSS Framework 
 * [Waffle](https://lucasgruwez.github.io/waffle-grid/): An easy to use flexbox grid system
 * [Ungrid](http://chrisnager.github.io/ungrid): the simplest responsive css grid
-* <span style="color:red">**[TEST]**</span> [TailwindCSS](https://github.com/tailwindcss/tailwindcss): A utility-first CSS framework for rapid UI development. 
-* <span style="color:red">**[TEST]**</span> [FurtiveCSS](https://github.com/johnotander/furtive): A forward-thinking, lightweight, css microframework
-* <span style="color:red">**[TEST]**</span> [Simple Grid](https://github.com/zachacole/Simple-Grid): A lightweight, responsive CSS grid
+* <span style="color:#ffdd00">*[TEST]*</span> [TailwindCSS](https://github.com/tailwindcss/tailwindcss): A utility-first CSS framework for rapid UI development. 
+* <span style="color:#ffdd00">*[TEST]*</span> [FurtiveCSS](https://github.com/johnotander/furtive): A forward-thinking, lightweight, css microframework
+* <span style="color:#ffdd00">*[TEST]*</span> [Simple Grid](https://github.com/zachacole/Simple-Grid): A lightweight, responsive CSS grid
 
 #### Components
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
