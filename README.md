@@ -1,6 +1,7 @@
 <!---
 	<span style="color:red">**Testing!** text</span>
-	<span style="color:red">**TEST!**</span>
+	<span style="color:red">**[TEST]**</span>
+	<span style="color:red">**[USED]**</span>
 -->
 # List of tools and libraries
 
@@ -10,13 +11,15 @@
 
 #### Frameworks and Grids
 * [Minireset.css](http://jgthms.com/minireset.css/): A tiny modern CSS reset 
-* [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework
+* <span style="color:red">**[USED]**</span> [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework
 * [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [Milligram](https://milligram.github.io/): A minimalist CSS framework
 * [Wing](http://usewing.ml): Minimal, Responsive CSS Framework 
 * [Waffle](https://lucasgruwez.github.io/waffle-grid/): An easy to use flexbox grid system
 * [Ungrid](http://chrisnager.github.io/ungrid): the simplest responsive css grid
-* <span style="color:red">**TEST!**</span>[TailwindCSS](https://github.com/tailwindcss/tailwindcss): A utility-first CSS framework for rapid UI development. 
+* <span style="color:red">**[TEST]**</span> [TailwindCSS](https://github.com/tailwindcss/tailwindcss): A utility-first CSS framework for rapid UI development. 
+* <span style="color:red">**[TEST]**</span> [FurtiveCSS](https://github.com/johnotander/furtive): A forward-thinking, lightweight, css microframework
+* <span style="color:red">**[TEST]**</span> [Simple Grid](https://github.com/zachacole/Simple-Grid): A lightweight, responsive CSS grid
 
 #### Components
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
@@ -63,7 +66,7 @@
 * [Dropzone](http://www.dropzonejs.com): An easy to use drag'n'drop library. It supports image previews and shows nice progress bars
 
 #### Templates and Themes
-* [FullPage](http://alvarotrigo.com/fullPage/): Create full screen pages fast and simple
+* <span style="color:#00cc66">**[USED]**</span> [FullPage](http://alvarotrigo.com/fullPage/): Create full screen pages fast and simple
 * [Reveal.js](http://lab.hakim.se/reveal-js/): The HTML Presentation Framework
 * [Strapdown.js](http://strapdownjs.com/): Instant and elegant Markdown documents in the browser
 * [Bricklayer.js](http://bricklayer.js.org): Lightweight and independent Pinterest-like cascading grid layout library 
@@ -73,10 +76,10 @@
 #### Frameworks
 * [Zepto.js](http://zeptojs.com/): Minimalist JavaScript library for modern browsers
 * [Superdom.js](https://superdom.site/): Better and simpler ES6 DOM manipulation
-* [Vue.js](https://vuejs.org/): A progressive, incrementally-adoptable JavaScript framework for building UI on the web
-* [Vuefire](https://github.com/vuejs/vuefire): Firebase bindings for Vue.js
+* <span style="color:#00cc66">**[USED]**</span> [Vue.js](https://vuejs.org/): A progressive, incrementally-adoptable JavaScript framework for building UI on the web
+* <span style="color:#00cc66">**[USED]**</span> [Vuefire](https://github.com/vuejs/vuefire): Firebase bindings for Vue.js
 * [Eagle.js](https://zulko.github.io/eaglejs-demo/): A hackable slideshow framework built with Vue.js
-* [Moon.js](http://moonjs.ga/): A minimal, blazing fast UI library
+* <span style="color:#00cc66">**[USED]**</span> [Moon.js](http://moonjs.ga/): A minimal, blazing fast UI library
 * [Inferno](https://github.com/infernojs/inferno): An extremely fast, React-like JavaScript library
 * [Hyperapp](https://hyperapp.glitch.me): 1 KB JavaScript library for building frontend applications
 
@@ -86,8 +89,8 @@
 * [Shepherd](http://github.hubspot.com/shepherd/docs/welcome): Guide your users through a tour of your app
 
 #### Images, Graphics and Charts
-* [Kute.js](http://thednp.github.io/kute.js): Native Javascript animation engine
-* [GoogleCharts](https://developers.google.com/chart/): Interactive charts for browsers and mobile devices
+* <span style="color:#00cc66">**[USED]**</span> [Kute.js](http://thednp.github.io/kute.js): Native Javascript animation engine
+* <span style="color:#00cc66">**[USED]**</span> [GoogleCharts](https://developers.google.com/chart/): Interactive charts for browsers and mobile devices
 * [Smoothie](http://smoothiecharts.org): smooooooth JavaScript charts for realtime streaming data
 * [Grade](http://benhowdle.im/grade): This JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images
 * [BigPicture.js](https://henrygd.me/bigpicture): Lightweight JavaScript image / video viewer. Supports Youtube and Vimeo
@@ -105,7 +108,7 @@
 * [In-view](https://camwiegert.github.io/in-view): Get notified when a DOM element enters or exits the viewport
 * [Highlight.js](https://github.com/isagalaev/highlight.js): Javascript syntax highlighter
 * [Holmes](https://haroen.me/holmes/): Fast and easy searching inside a page
-* [Talisman](http://yomguithereal.github.io/talisman/): A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript
+* <span style="color:#00cc66">**[USED]**</span> [Talisman](http://yomguithereal.github.io/talisman/): A straightforward & modular NLP, machine learning & fuzzy matching library for JavaScript
 
 #### Mobile
 * [PulltoRefresh.js](https://www.boxfactura.com/pulltorefresh.js/): A quick and powerful plugin for your pull-to-refresh needs in your webapp
@@ -121,9 +124,9 @@
 <hr>
 
 ## Php
-* [Yellow](https://datenstrom.se/yellow): Yellow is for people who make websites
+* <span style="color:#00cc66">**[USED]**</span> [Yellow](https://datenstrom.se/yellow): Yellow is for people who make websites
 * [PhileCMS](http://philecms.com/): A flat file CMS with a swappable parser and template engine
-* [Medoo](http://medoo.in): The lightest PHP database framework to accelerate development
+* <span style="color:#00cc66">**[USED]**</span> [Medoo](http://medoo.in): The lightest PHP database framework to accelerate development
 * [Httpful](http://phphttpclient.com): A Chainable, REST Friendly, PHP HTTP Client. A sane alternative to cURL
 * [Requests](http://requests.ryanmccue.info/): Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries
 * [Bramus/Router](https://github.com/bramus/router): A lightweight and simple object oriented PHP Router
@@ -141,7 +144,7 @@
 <hr>
 
 ## MultiLanguage
-* [Hashids](http://hashids.org/)
+* <span style="color:#00cc66">**[USED]**</span> [Hashids](http://hashids.org/)
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
