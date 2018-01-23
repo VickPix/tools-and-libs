@@ -14,7 +14,7 @@
 * <span style="color:red">*[DELETED]*</span> [~~Minireset.css~~](http://jgthms.com/minireset.css/): ~~A tiny modern CSS reset~~
 * <span style="color:#00cc66">*[USED]*</span> [Spectre.css](https://picturepan2.github.io/spectre/): a lightweight, responsive and modern CSS framework
 * [Bootstrap](http://getbootstrap.com): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-* [Milligram](https://milligram.github.io/): A minimalist CSS framework
+* <del>[Milligram](https://milligram.github.io/): A minimalist CSS framework</del>
 * [Wing](http://usewing.ml): Minimal, Responsive CSS Framework 
 * [Waffle](https://lucasgruwez.github.io/waffle-grid/): An easy to use flexbox grid system
 * [Ungrid](http://chrisnager.github.io/ungrid): the simplest responsive css grid
