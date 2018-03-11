@@ -22,6 +22,7 @@
 * <span style="color:#ffcc00">*[TEST]*</span> [TailwindCSS](https://github.com/tailwindcss/tailwindcss): A utility-first CSS framework for rapid UI development. 
 * <span style="color:#ffcc00">*[TEST]*</span> [FurtiveCSS](https://github.com/johnotander/furtive): A forward-thinking, lightweight, css microframework
 * <span style="color:#ffcc00">*[TEST]*</span> [Simple Grid](https://github.com/zachacole/Simple-Grid): A lightweight, responsive CSS grid
+* <span style="color:#ffcc00">*[TEST]*</span> [Bulma](https://github.com/jgthms/bulma):Bulma is a modern CSS framework based on Flexbox.
 
 #### Components
 * [Bttn.css](https://bttn.surge.sh/): Awesome buttons for awesome projects!
@@ -46,6 +47,7 @@
 * <span style="color:red">*[DELETED]*</span> <del>[Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management for JavaScript</del>
 * [Nedb](https://github.com/louischatriot/nedb): The JavaScript Database, for Node.js, nw.js, electron and the browser
 * [Feathers](https://feathersjs.com): A REST and realtime API layer for modern applications
+* [Cheerio](https://github.com/cheeriojs/cheerio): Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 #### Animations and Transitions
 * [Rellax](https://dixonandmoe.com/rellax/): Lightweight, vanilla javascript parallax library 
@@ -101,6 +103,7 @@
 * [Underscore.js](http://underscorejs.org): JavaScript's utility _ belt 
 * [Date-fns](https://date-fns.org/): Modern JavaScript date utility library
 * [Tinytime](https://github.com/aweary/tinytime): A straightforward date and time formatter in <1kb
+* [Timeago.js](https://github.com/hustcc/timeago.js): a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny. 
 * [StrMan](https://dleitee.github.io/strman/): A Javascript string manipulation library
 * [Popline](http://kenshin54.github.io/popline): Popline is an HTML5 Rich-Text-Editor Toolbar 
 * [List.js](http://listjs.com): The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML
